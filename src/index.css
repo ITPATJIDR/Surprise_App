@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Dog_Bold';
+  src: url('assets/fonts/iannnnn-DOG/iannnnn-DOG-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dog_Light';
+  src: url('assets/fonts/iannnnn-DOG/iannnnn-DOG-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dog';
+  src: url('assets/fonts/iannnnn-DOG/iannnnn-DOG-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
