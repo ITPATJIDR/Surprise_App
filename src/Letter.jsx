@@ -57,15 +57,15 @@ const ValentineLetter = () => {
           <div className={`absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 
             bg-white p-8 rounded-lg shadow-xl w-72 transition-all duration-1000
             ${showLetter ? 'opacity-100 scale-100' : 'opacity-0 scale-0'}`}>
-            <h2 className="text-2xl font-bold text-red-500 mb-4 font-['LoveFont']">ตูดดหมึกกของงงพรี่</h2>
-            <p className="text-gray-700 leading-relaxed font-['LoveFont']">
+            <h2 className="text-2xl font-bold text-red-500 mb-4 font-dog">ตูดดหมึกกของงงพรี่</h2>
+            <p className="text-gray-700 leading-relaxed font-dog">
               วาเลนไทน์ นี้ไม่ได้อยุ่ด้วยกานอีกเเล้วนะค้าบบ พี่เลยทำเว็บนี้ขึ้นมาเเทน 555555 ดีมะๆๆๆ 
               อยาก อยุ่ด้วยกานเเล้วอยากกอด หอมๆๆงับ
             </p>
-            <p className="mt-4 text-gray-700 font-['LoveFont']">
+            <p className="mt-4 text-gray-700 font-dog">
               ทำมะวานเลยนะเนียย พรี่เก่งงมะละจ๊ะ อิอิ
             </p>
-            <p className="mt-6 text-red-500 font-bold text-right font-['LoveFont']">
+            <p className="mt-6 text-red-500 font-bold text-right font-dog">
               รักหนูนะค้าบบ,<br />
               ไอตูดหมึกกก
             </p>
