@@ -58,8 +58,8 @@ const ValentineLetter = () => {
             bg-white p-8 rounded-lg shadow-xl w-72 transition-all duration-1000
             ${showLetter ? 'opacity-100 scale-100' : 'opacity-0 scale-0'}`}>
             <h2 className="text-2xl font-bold text-red-500 mb-4 font-dog">ตูดดหมึกกของงงพรี่</h2>
-            <p className="text-gray-700 leading-relaxed font-dog">
-              วาเลนไทน์ นี้ไม่ได้อยุ่ด้วยกานอีกเเล้วนะค้าบบ พี่เลยทำเว็บนี้ขึ้นมาเเทน 555555 ดีมะๆๆๆ 
+            <p className="text-gray-700 leading-relaxed font-dog text-[20px]">
+              วาเลนไทน์นี้ ไม่ได้อยุ่ด้วยกานอีกเเล้วนะค้าบบ พี่เลยทำเว็บนี้ขึ้นมาเเทน 555555 ดีมะๆๆๆ 
               อยาก อยุ่ด้วยกานเเล้วอยากกอด หอมๆๆงับ
             </p>
             <p className="mt-4 text-gray-700 font-dog">
